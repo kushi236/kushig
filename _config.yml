@@ -2,8 +2,8 @@ title: Nighthawk Pages
 description: "Class of 2025"
 owner_name: Kushi Gade
 github_username: kushi236
-github_repo: "student_2025" 
-baseurl: "/student29"
+github_repo: "kushig" 
+baseurl: "/kushig"
 future: true
 remote_theme: jekyll/minima
 minima:
