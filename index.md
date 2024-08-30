@@ -9,3 +9,7 @@ description: Home Page
 Kushi's fantastic blog 
 
 ‧₊˚ ☁️⋅♡🪐༘⋆
+
+
+![computer]({{site.baseurl}}/images/notebooks/foundation/compsci.jpeg)
+
