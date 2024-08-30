@@ -5,4 +5,8 @@ description: Home Page
 hide: true
 ---
 
+˗ˏˋ ♡ ˎˊ˗
 
+Kushi's fantastic blog 
+
+‧₊˚ ☁️⋅♡🪐༘⋆
