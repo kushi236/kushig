@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Student Home 
+title: Kushi's Homepage 
 description: Home Page
 ---
 
