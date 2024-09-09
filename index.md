@@ -70,20 +70,13 @@ Kushi's fantastic blog
       <img src="{{site.baseurl}}/images/comp sci.jpeg"> 
     </div>
     <div class="grid-item">
-      <img src="images/grape.png" 
+      <img src="{{site.baseurl}}/images/comp scie blog iamge.jpeg">
     </div>
     <div class="grid-item">
-      <img src="images/orange.png">
-      <p>Wow an orange</p>
+      <img src="{{site.baseurl}}/images/notebooks/foundation/pic 3 for blog comp sci.jpeg">
     </div>
     <div class="grid-item">
-      <img src="images/cherrys.png" alt="cherry">
-      <p>Cherry!</p>
-    </div>
-    <div class="grid-item">
-      <img src="images/pear.png" alt="pear">
-    
-    </div>
+      <img src="{{site.baseurl}}/images/csp pictures.jpeg">
   </div>
 <br>
 <br>
