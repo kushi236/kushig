@@ -60,19 +60,17 @@ Kushi's fantastic blog
   </style>
 </head>
 <body>
-<h2 style="text-align:center;">✧˖°  Welcome to Nora Ahadian's blog!!  °˖✧</h2>
+<h2 style="text-align:center;"> Welcome to Kushi Gade's blog!!  °˖✧</h2>
 <br>
-<strong><p> Would you like a fruit? </p></strong>
+<strong><p> Computer Science Principles is awesome! </p></strong>
 <div class="grid-container" id="grid_container">
 </div>
   <div class="grid-container">
     <div class="grid-item">
-      <img src="images/apple.png" alt="apple">
-      <p>Yummy Apple</p>
+      <img src="kushig/images/comp sci.jpeg" 
     </div>
     <div class="grid-item">
-      <img src="images/grape.png" alt="grape">
-      <p>Delicious Grapes</p>
+      <img src="images/grape.png" 
     </div>
     <div class="grid-item">
       <img src="images/orange.png" alt="orange">
@@ -91,7 +89,7 @@ Kushi's fantastic blog
 <br>
 <br>
 <h2 style="text-align:center;"> Thanks for visiting my page </h2>
-<img src="images/byeCat.gif" alt="Bye bye cat" class= "center">
+<img src="" alt="Bye bye cat" class= "center">
 </body>
 
 
