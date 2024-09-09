@@ -67,13 +67,13 @@ Kushi's fantastic blog
 </div>
   <div class="grid-container">
     <div class="grid-item">
-      <img src="kushig/images/comp sci.jpeg" 
+      <img src="{{site.baseurl}}/images/comp sci.jpeg"> 
     </div>
     <div class="grid-item">
       <img src="images/grape.png" 
     </div>
     <div class="grid-item">
-      <img src="images/orange.png" alt="orange">
+      <img src="images/orange.png">
       <p>Wow an orange</p>
     </div>
     <div class="grid-item">
@@ -82,14 +82,14 @@ Kushi's fantastic blog
     </div>
     <div class="grid-item">
       <img src="images/pear.png" alt="pear">
-      <p>Juicy pear</p>
+    
     </div>
   </div>
 <br>
 <br>
 <br>
 <h2 style="text-align:center;"> Thanks for visiting my page </h2>
-<img src="" alt="Bye bye cat" class= "center">
+
 </body>
 
 
