@@ -83,8 +83,6 @@ Kushi's fantastic blog
 <br>
 <h2 style="text-align:center;"> Thanks for visiting my page </h2>
 
-</body>
-
 
 
 
