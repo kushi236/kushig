@@ -6,4 +6,4 @@ toc: true
 comments: false
 ---
 
-<a href="https://maryamabdul-aziz.github.io/prince/">Link to Princess Pages!></a>
+<a href="https://kushi236.github.io/kushig/princess/home">Link to Princess Pages!</a>
