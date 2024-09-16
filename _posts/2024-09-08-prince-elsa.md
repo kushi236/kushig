@@ -9,7 +9,7 @@ permalink: /princess/elsa
 
 Elsa!
 
-![Elsa]({{site.baseurl}}/images/elsa.jpg)
+![Elsa]({{site.baseurl}}/kushig/images/elsa.jpg)
 
 **Movie:** Frozen (2013)
 <br>
