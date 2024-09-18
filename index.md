@@ -11,7 +11,7 @@ Kushi's fantastic blog
 ‧₊˚ ☁️⋅♡🪐༘⋆
 
 
-![computer]({{site.baseurl}}/images/notebooks/foundation/compsci.jpeg)
+![computer]({{site.baseurl}}/images/compsci.jpeg)
 
 <head>
   <style>
@@ -73,7 +73,7 @@ Kushi's fantastic blog
       <img src="{{site.baseurl}}/images/comp scie blog iamge.jpeg">
     </div>
     <div class="grid-item">
-      <img src="{{site.baseurl}}/images/notebooks/foundation/pic 3 for blog comp sci.jpeg">
+      <img src="{{site.baseurl}}/images/pic 3 for blog comp sci.jpeg">
     </div>
     <div class="grid-item">
       <img src="{{site.baseurl}}/images/csp pictures.jpeg">
