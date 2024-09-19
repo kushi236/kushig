@@ -83,6 +83,13 @@ Kushi's fantastic blog
 <br>
 <h2 style="text-align:center;"> Thanks for visiting my page </h2>
 
+<script src="https://utteranc.es/client.js"
+        repo="kushi236/kushig"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 
 
