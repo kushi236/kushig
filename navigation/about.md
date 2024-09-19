@@ -18,9 +18,10 @@ Fun Fact: I am on the speech and debate team and compete at the Varsity level, I
 
 I want to go to UCLA and major in political science for college! I have always wanted to be a corporate lawyer when I get older.
 
-<script> src="https://utteranc.es/client.js"
-        repo="kushig"
-        issue-term="pathname"
+<script src="https://utteranc.es/client.js"
+        repo="{{ site.github_username }}/{{ site.github_repo | default: site.baseurl | remove: "/" }}"
+        issue-term="title"
+        label="blogpost-comment"
         theme="github-light"
         crossorigin="anonymous"
         async>
