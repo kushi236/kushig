@@ -21,7 +21,7 @@ courses: { compsci: {week: 4} }
         display: none;
         border-style: solid;
         border-width: 10px;
-        border-color: #ffffff;
+        border-color: #8b83d4;
     }
     canvas:focus{
         outline: none;
@@ -67,8 +67,8 @@ courses: { compsci: {week: 4} }
     }
 
     #setting input:checked + label{
-        background-color: #f542c5;
-        color: #FFFFFF;
+        background-color: #e07a43;
+        color: #8b83d4;
     }
 </style>
 
@@ -80,13 +80,13 @@ courses: { compsci: {week: 4} }
     <div class="container bg-secondary" style="text-align:center;">
         <!-- Main Menu -->
         <div id="menu" class="py-4 text-light">
-            <p>Welcome to Snake, press  <span style="background-color: #ff5ed4; color: #ffffff">space</span> to begin</p>
+            <p>Welcome to Snake, press  <span style="background-color: #8b83d4; color: #6d9e5c">space</span> to begin</p>
             <a id="new_game" class="link-alert">new game</a>
             <a id="setting_menu" class="link-alert">settings</a>
         </div>
         <!-- Game Over -->
         <div id="gameover" class="py-4 text-light">
-            <p>Game Over, press <span style="background-color: #ff5ed4; color: #ffffff">space</span> to try again</p>
+            <p>Game Over, press <span style="background-color: #8b83d4; color: #8b83d4">space</span> to try again</p>
             <a id="new_game1" class="link-alert">new game</a>
             <a id="setting_menu1" class="link-alert">settings</a>
         </div>
@@ -94,7 +94,7 @@ courses: { compsci: {week: 4} }
         <canvas id="snake" class="wrap" width="320" height="320" tabindex="1"></canvas>
         <!-- Settings Screen -->
         <div id="setting" class="py-4 text-light">
-            <p>Settings Screen, press <span style="background-color: #edc43b; color: #FFFFFF">space</span> to go back to playing</p>
+            <p>Settings Screen, press <span style="background-color: #8b83d4; color: #8b83d4">space</span> to go back to playing</p>
             <a id="new_game2" class="link-alert">new game</a>
             <br>
             <p>Speed:
@@ -272,7 +272,7 @@ courses: { compsci: {week: 4} }
             }
             // Repaint canvas
             ctx.beginPath();
-            ctx.fillStyle = "#ff6bce";
+            ctx.fillStyle = "#72f7cf";
             ctx.fillRect(0, 0, canvas.width, canvas.height);
             // Paint snake
             for(let i = 0; i < snake.length; i++){
@@ -333,7 +333,7 @@ courses: { compsci: {week: 4} }
         /////////////////////////////////////////////////////////////
 
         let activeDot = function(x, y){
-            ctx.fillStyle = "#FFFFFF";
+            ctx.fillStyle = "#000000";
             ctx.beginPath();
             ctx. arc(x * BLOCK + BLOCK / 2, y * BLOCK + BLOCK / 2, BLOCK / 2, 0, 2 * Math.PI);
             ctx.fill();
@@ -378,8 +378,8 @@ courses: { compsci: {week: 4} }
         /////////////////////////////////////////////////////////////
         let setWall = function(wall_value){
             wall = wall_value;
-            if(wall === 0){screen_snake.style.borderColor = "#fcdd3f";}
-            if(wall === 1){screen_snake.style.borderColor = "#fcdd3f";}
+            if(wall === 0){screen_snake.style.borderColor = "#8b83d4";}
+            if(wall === 1){screen_snake.style.borderColor = "#8b83d4";}
         }
     })();
 </script>
