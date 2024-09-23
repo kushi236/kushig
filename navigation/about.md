@@ -16,7 +16,9 @@ Fun Fact: I am on the speech and debate team and compete at the Varsity level, I
 
 ![alt text]({{site.baseurl}}//images/stanford medal.jpeg)
 
-I want to go to UCLA and major in political science for college! I have always wanted to be a corporate lawyer when I get older.
+I want to go to UCLA and major in political science for college! I have always wanted to be a corporate lawyer when I get older. 
+
+Struggles: One of my biggest struggles and problems was getting my python to work, it was a problem that I did not know how to fix and it was interfering with my actual code, but luckily Mr. Mortensen helped me figure that out and it all ended up working out. 
 
 <script src="https://utteranc.es/client.js"
         repo="{{ site.github_username }}/{{ site.github_repo | default: site.baseurl | remove: "/" }}"
