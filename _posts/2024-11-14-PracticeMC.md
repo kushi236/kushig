@@ -1,14 +1,14 @@
 
 
-1. What you learned from the quiz?
+## 1. What you learned from the quiz?
 
 I learnt how the actual ap exam will be like and the format of the questions on the exam. The test also contained several concepts that we haven't covered yet like the impact of computing and other varieties that I will look forward to understanding.
 
-2. What type of questions do you feel you are weak on?
+## 2. What type of questions do you feel you are weak on?
 
 I don't feel confident on the questions that aren't strictly coding or the questions that ask me to point out a specific reason there is a failure in the sequence.
 
-Corrections- 
+## Corrections- 
 
 Q1-  Swap Values first and second; Second <- Temp, I got this question wrong because I did not understand how to correctly respond. 
 
